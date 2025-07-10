@@ -43,8 +43,8 @@ Elite_ERP/
 - Currently, the endpoints allow anonymous access (`[AllowAnonymous]`), but logs will capture user activity when authenticated.
 
 -  Seeded User: 
-  * UserName: `superadmin`
-  * Password: `superadmin@123`
+  ** UserName: `superadmin`
+  ** Password: `superadmin@123`
 
 ---
 
