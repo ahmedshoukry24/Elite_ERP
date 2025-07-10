@@ -5,7 +5,7 @@
 ### How to Run the Project
 
 1. Open a terminal inside the `API` project folder.
-2. Run the following command: dotnet run
+2. Run the following command: `dotnet run`
 
 3. Use the **URL displayed in the CMD terminal** as it is to access the API.
 
@@ -14,13 +14,15 @@
 ## 🗂️ Project Structure
 
 Elite_ERP/
-├── API # Controllers and API endpoints
-│ └── Controllers
-├── Core # Entity classes
-│ └── Entities
-├── Infrastructure # Repository implementations
-│ └── Repositories
-└── Service # Service layer (business logic)
+API
+ - controllers
+Core
+ - entities
+Infrastructure
+ - Repositories
+Service
+ - services layer
+
 
 
 ---
