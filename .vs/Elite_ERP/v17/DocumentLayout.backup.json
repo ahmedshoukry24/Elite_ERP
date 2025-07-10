@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\EliteTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|c:\\users\\user\\desktop\\elitetask\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|c:\\users\\user\\desktop\\elitetask\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67473A07-A5DF-4B53-9266-CA517A572B4B}|Services\\Services.csproj|c:\\users\\user\\desktop\\elitetask\\services\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67473A07-A5DF-4B53-9266-CA517A572B4B}|Services\\Services.csproj|solutionrelative:services\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C0F66-B7AA-41C0-B054-E6E425B07A64}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\elitetask\\infrastructure\\configurations\\lookups\\logconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815C0F66-B7AA-41C0-B054-E6E425B07A64}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\lookups\\logconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\entities\\lookups\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\entities\\lookups\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\interfaces\\iservices\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iservices\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\dtos\\lookups\\createlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\dtos\\lookups\\createlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|c:\\users\\user\\desktop\\elitetask\\api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|solutionrelative:api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|c:\\users\\user\\desktop\\elitetask\\api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|solutionrelative:api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\dtos\\lookups\\logresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\dtos\\lookups\\logresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\helpers\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\helpers\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67473A07-A5DF-4B53-9266-CA517A572B4B}|Services\\Services.csproj|c:\\users\\user\\desktop\\elitetask\\services\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67473A07-A5DF-4B53-9266-CA517A572B4B}|Services\\Services.csproj|solutionrelative:services\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|c:\\users\\user\\desktop\\elitetask\\api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2327625-5839-4E0E-A496-2F17A3CDA5B6}|API\\API.csproj|solutionrelative:api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\interfaces\\iservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\dtos\\hr\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\dtos\\hr\\department\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|c:\\users\\user\\desktop\\elitetask\\core\\entities\\hr\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90F98B-9222-4F69-A396-5D3C5196FF36}|Core\\Core.csproj|solutionrelative:core\\entities\\hr\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C0F66-B7AA-41C0-B054-E6E425B07A64}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\elitetask\\infrastructure\\migrations\\20250710171740_handleemployeelogrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815C0F66-B7AA-41C0-B054-E6E425B07A64}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250710171740_handleemployeelogrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T17:29:47.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Controllers\\LogController.cs",
+              "RelativeToolTip": "API\\Controllers\\LogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:53:30.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Interfaces\\IServices\\ILogService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IServices\\ILogService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Interfaces\\IServices\\ILogService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IServices\\ILogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:51:56.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateLogDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\DTOs\\Lookups\\CreateLogDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\Lookups\\CreateLogDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\DTOs\\Lookups\\CreateLogDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\Lookups\\CreateLogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:13:07.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\DTOs\\Lookups\\LogResponseDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\Lookups\\LogResponseDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\DTOs\\Lookups\\LogResponseDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\Lookups\\LogResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:50:04.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAFQAAAAA6P////8AwGwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:21:41.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Services\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Services\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADgv2kAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:55:38.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Helpers\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Helpers\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "Core\\Helpers\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:19:23.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAwAAACAMjMzMzMrwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:26:51.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAADgmZmZmZkbwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:21:24.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Interfaces\\IServices\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IServices\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Interfaces\\IServices\\IDepartmentService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IServices\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:20:47.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\DTOs\\HR\\Department\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\HR\\Department\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\DTOs\\HR\\Department\\DepartmentDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\HR\\Department\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:18:11.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Entities\\HR\\Department.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\HR\\Department.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Entities\\HR\\Department.cs",
+              "RelativeToolTip": "Core\\Entities\\HR\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:17:50.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Services\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Services\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Services\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:16:31.345Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250710171740_handleEmployeelogRelation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Infrastructure\\Migrations\\20250710171740_handleEmployeelogRelation.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250710171740_handleEmployeelogRelation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Infrastructure\\Migrations\\20250710171740_handleEmployeelogRelation.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250710171740_handleEmployeelogRelation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABgPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:17:40.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Infrastructure\\Configurations\\Lookups\\LogConfigurations.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\Lookups\\LogConfigurations.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Infrastructure\\Configurations\\Lookups\\LogConfigurations.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\Lookups\\LogConfigurations.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBcAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:17:08.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Entities\\Lookups\\Log.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Lookups\\Log.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EliteTask\\Core\\Entities\\Lookups\\Log.cs",
+              "RelativeToolTip": "Core\\Entities\\Lookups\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:41:42.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
