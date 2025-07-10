@@ -14,14 +14,10 @@
 ## 🗂️ Project Structure
 
 Elite_ERP/
-API
- - controllers
-Core
- - entities
-Infrastructure
- - Repositories
-Service
- - services layer
+API -> controllers
+Core -> entities
+Infrastructure -> Repositories
+Service -> services layer
 
 
 
