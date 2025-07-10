@@ -37,14 +37,12 @@ Elite_ERP/
 
 ### Logging
 
-
-
 - Logs are recorded **only when a user is logged in**.
 - Currently, the endpoints allow anonymous access (`[AllowAnonymous]`), but logs will capture user activity when authenticated.
 
--  Seeded User: 
-  ** UserName: `superadmin`
-  ** Password: `superadmin@123`
+####  Seeded User: 
+  * UserName: `superadmin`
+  * Password: `superadmin@123`
 
 ---
 
